@@ -1,4 +1,6 @@
 # analyze the honey production rate of the country
+
+# import all necessary libraries
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
